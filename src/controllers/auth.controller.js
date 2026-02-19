@@ -21,7 +21,7 @@ async function registerUser( req,res){
           username,
           email,
           password:hash,
-          role
+     role
       })
 
 
