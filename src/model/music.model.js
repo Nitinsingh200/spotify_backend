@@ -1,4 +1,4 @@
-const  mongoose = require('express');
+const  mongoose = require('mongoose');
 const musicSchema = new mongoose.Schema({
     uri:{
         type:String,
